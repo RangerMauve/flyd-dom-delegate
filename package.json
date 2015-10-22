@@ -1,0 +1,30 @@
+{
+  "name": "flyd-dom-delegate",
+  "version": "1.0.0",
+  "description": "Create flyd streams from dom events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RangerMauve/flyd-dom-delegate.git"
+  },
+  "keywords": [
+    "flyd",
+    "stream",
+    "dom",
+    "delegate",
+    "event"
+  ],
+  "author": "rangermauve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/flyd-dom-delegate/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/flyd-dom-delegate#readme",
+  "dependencies": {
+    "dom-delegate": "^2.0.3",
+    "flyd": "^0.1.15"
+  }
+}
